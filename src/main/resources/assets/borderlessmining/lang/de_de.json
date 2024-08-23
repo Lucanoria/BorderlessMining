@@ -1,0 +1,21 @@
+{
+  "text.borderlessmining.videomodename": "Randloser Vollbildschirm",
+  "config.borderlessmining.title": "Borderless Mining Konfiguration",
+  "config.borderlessmining.general": "Allgemein",
+  "config.borderlessmining.general.enabled": "Randloser Vollbildschirm",
+  "config.borderlessmining.general.enabled.tooltip": "Wechselt zu einem randlosen Vollbildfenster, wenn Vollbild aktiviert ist",
+  "config.borderlessmining.general.videomodeoption": "Vollbildauflösung Option",
+  "config.borderlessmining.general.videomodeoption.tooltip": "Fügt dem Schieberegler für die Vollbildauflösung eine Option hinzu, mit der die Mod genutzt werden kann",
+  "config.borderlessmining.general.forcemonitor": "Monitor",
+  "config.borderlessmining.general.forcemonitor.current": "Aktuell",
+  "config.borderlessmining.general.enabledmac": "Auf macOS aktivieren",
+  "config.borderlessmining.general.enabledmac.tooltip": "Unter macOS standardmäßig deaktiviert, da es eine bessere native Vollbildunterstützung hat; auf anderen Betriebssystemen bewirkt diese Option nichts",
+  "config.borderlessmining.dimensions": "Maße",
+  "config.borderlessmining.dimensions.enabled": "Benutzerdefinierte Maße verwenden",
+  "config.borderlessmining.dimensions.monitorcoordinates": "Monitorbezogene Koordinaten verwenden",
+  "config.borderlessmining.dimensions.monitorcoordinates.tooltip": "Koordinaten relativ zum Monitor verwenden, anstatt absolute",
+  "config.borderlessmining.dimensions.x": "X Koordinate",
+  "config.borderlessmining.dimensions.y": "Y Koordinate",
+  "config.borderlessmining.dimensions.width": "Breite",
+  "config.borderlessmining.dimensions.height": "Höhe"
+}
